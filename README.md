@@ -5,7 +5,7 @@ Réalisez cet exercice en choisissant 3 applications :
 2. Un site avec un traffic moyen : https://www.shinkoparis.fr/  Traffic 16K/an
 3. Un site avec un traffic important : Instagram
 
-Lien de notre google docs : ** https://docs.google.com/document/d/1KlGcf5hu_CUD-ZUyx9z8zJjSun1F2xg41MLoJUTBVz4/edit#heading=h.grild5a7pplq **
+Lien de notre google docs : **https://docs.google.com/document/d/1KlGcf5hu_CUD-ZUyx9z8zJjSun1F2xg41MLoJUTBVz4/edit#heading=h.grild5a7pplq**
 
 ## 1. Création d'un document
 Créez un nouveau document au format de votre choix. Entrez sur une page de garde votre nom, prénom, classe et la date.
